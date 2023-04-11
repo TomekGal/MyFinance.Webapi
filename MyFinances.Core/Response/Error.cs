@@ -1,4 +1,4 @@
-﻿namespace MyFinance.Webapi.Models.Response
+﻿namespace MyFinances.Core.Response
 {
     public class Error
     {

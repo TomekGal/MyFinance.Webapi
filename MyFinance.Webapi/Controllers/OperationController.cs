@@ -1,14 +1,11 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using MyFinance.Webapi.Models;
 using MyFinance.Webapi.Models.Converters;
-using MyFinance.Webapi.Models.Domains;
-using MyFinance.Webapi.Models.Dtos;
-using MyFinance.Webapi.Models.Response;
+using MyFinances.Core.Dtos;
+using MyFinances.Core.Response;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+
 
 namespace MyFinance.Webapi.Controllers
 {

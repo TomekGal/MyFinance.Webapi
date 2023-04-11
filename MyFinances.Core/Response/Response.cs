@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace MyFinance.Webapi.Models.Response
+namespace MyFinances.Core.Response
 {
     public class Response
     {

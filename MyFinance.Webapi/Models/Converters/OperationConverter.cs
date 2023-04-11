@@ -1,9 +1,8 @@
 ﻿using MyFinance.Webapi.Models.Domains;
-using MyFinance.Webapi.Models.Dtos;
-using System;
+using MyFinances.Core.Dtos;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
+
 
 namespace MyFinance.Webapi.Models.Converters
 {
