@@ -36,7 +36,7 @@ namespace MyFinance.Webapi
           
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "MyFinance.Webapi", Version = "v1" });
+                //c.SwaggerDoc("v1", new OpenApiInfo { Title = "MyFinance.Webapi", Version = "v1" });
             });
         }
 
